@@ -262,7 +262,7 @@ Transform:
   m_GameObject: {fileID: 262958432}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -1.72, z: 0}
+  m_LocalPosition: {x: 0, y: -1.08, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -370,7 +370,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 10
-  m_Sprite: {fileID: -4945588846378544401, guid: 78c66b2ab5f12f24b854053567953b9c, type: 3}
+  m_Sprite: {fileID: 3895458510913529188, guid: 909f4cde5e9479c41bdd5abcbcbec8c2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -432,6 +432,14 @@ PrefabInstance:
     - target: {fileID: 7079493566343859857, guid: 9739b47024632334a87384dae5849263, type: 3}
       propertyPath: m_Name
       value: Paim (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8873004426157431325, guid: 9739b47024632334a87384dae5849263, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 8873004426157431325, guid: 9739b47024632334a87384dae5849263, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.86
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -878,7 +886,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CharacterController
   moveSpeed: 5
-  jumpForce: 10
+  jumpForce: 13
   groundCheck: {fileID: 262958433}
   groundCheckRadius: 0.2
   groundLayer:
@@ -919,7 +927,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.0062716305, y: -0.8811611}
+  m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -929,7 +937,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.93069154, y: 1.3525183}
+  m_Size: {x: 0.73, y: 1.71}
   m_EdgeRadius: 0
 --- !u!50 &842868306
 Rigidbody2D:

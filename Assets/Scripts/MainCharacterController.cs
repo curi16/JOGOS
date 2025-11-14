@@ -24,7 +24,7 @@ public class PlayerMovement : MonoBehaviour
     {
         // Check if touching the ground
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
-
+        anim.SetBool("isJump", !isGrounded);
         // Horizontal movement (A/D or Left/Right arrows)
         float moveInput = Input.GetAxisRaw("Horizontal");
         rb.linearVelocity = new Vector2(moveInput * moveSpeed, rb.linearVelocity.y);
