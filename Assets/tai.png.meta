@@ -1,0 +1,5226 @@
+fileFormatVersion: 2
+guid: 78c66b2ab5f12f24b854053567953b9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4945588846378544401
+    second: tai_0
+  - first:
+      213: 4416350753367269031
+    second: tai_1
+  - first:
+      213: 6336136208170411413
+    second: tai_2
+  - first:
+      213: 1673863435988332741
+    second: tai_3
+  - first:
+      213: -2937075491093699138
+    second: tai_4
+  - first:
+      213: -8568651225574742644
+    second: tai_5
+  - first:
+      213: -577796566255182522
+    second: tai_6
+  - first:
+      213: 9146778471495340699
+    second: tai_7
+  - first:
+      213: -1568515110416816697
+    second: tai_8
+  - first:
+      213: -6767723878197933185
+    second: tai_9
+  - first:
+      213: 8587011245857030708
+    second: tai_10
+  - first:
+      213: 6627968704425405815
+    second: tai_11
+  - first:
+      213: -2231075655325228473
+    second: tai_12
+  - first:
+      213: 1331552005087133394
+    second: tai_13
+  - first:
+      213: 4202204714218649268
+    second: tai_14
+  - first:
+      213: -2399499506636261955
+    second: tai_15
+  - first:
+      213: 4455671307285031583
+    second: tai_16
+  - first:
+      213: -3701792808666661907
+    second: tai_17
+  - first:
+      213: -6202465727005204016
+    second: tai_18
+  - first:
+      213: 1325835070240941068
+    second: tai_19
+  - first:
+      213: -5053578278470380819
+    second: tai_20
+  - first:
+      213: -5674447341513163893
+    second: tai_21
+  - first:
+      213: -3818791124641042242
+    second: tai_22
+  - first:
+      213: 7254585350163592204
+    second: tai_23
+  - first:
+      213: 625647767660204131
+    second: tai_24
+  - first:
+      213: -4466950361709656526
+    second: tai_25
+  - first:
+      213: -5530199411517139010
+    second: tai_26
+  - first:
+      213: -8278927396467247016
+    second: tai_27
+  - first:
+      213: -8194742059610417691
+    second: tai_28
+  - first:
+      213: -2541628735103969814
+    second: tai_29
+  - first:
+      213: -2348971621429894969
+    second: tai_30
+  - first:
+      213: -8221321974947854073
+    second: tai_31
+  - first:
+      213: -6339938875313047787
+    second: tai_32
+  - first:
+      213: 4792736332122530649
+    second: tai_33
+  - first:
+      213: -6961203259373265772
+    second: tai_34
+  - first:
+      213: -7967175222001866969
+    second: tai_35
+  - first:
+      213: 147718450456085668
+    second: tai_36
+  - first:
+      213: 6073026036574213248
+    second: tai_37
+  - first:
+      213: -8631760930289277507
+    second: tai_38
+  - first:
+      213: 3700364675414769921
+    second: tai_39
+  - first:
+      213: -1760390065049885363
+    second: tai_40
+  - first:
+      213: 2140753696947703483
+    second: tai_41
+  - first:
+      213: 6723711846975907536
+    second: tai_42
+  - first:
+      213: 3366337599105969826
+    second: tai_43
+  - first:
+      213: -5509069085186103162
+    second: tai_44
+  - first:
+      213: 9080775976469970757
+    second: tai_45
+  - first:
+      213: 8644844938208595248
+    second: tai_46
+  - first:
+      213: -4884099894159839009
+    second: tai_47
+  - first:
+      213: 7026249670406213969
+    second: tai_48
+  - first:
+      213: -4612487606611502204
+    second: tai_49
+  - first:
+      213: -5724290617271747769
+    second: tai_50
+  - first:
+      213: 8082889579425950162
+    second: tai_51
+  - first:
+      213: 4250968168344187133
+    second: tai_52
+  - first:
+      213: 6542337682554605510
+    second: tai_53
+  - first:
+      213: 5818408994160935883
+    second: tai_54
+  - first:
+      213: -5600005257568154107
+    second: tai_55
+  - first:
+      213: 4162826104724030139
+    second: tai_56
+  - first:
+      213: 4250137791402630685
+    second: tai_57
+  - first:
+      213: -907996623991496519
+    second: tai_58
+  - first:
+      213: -4873586434524659755
+    second: tai_59
+  - first:
+      213: -5863702808239296475
+    second: tai_60
+  - first:
+      213: 1499140122332789575
+    second: tai_61
+  - first:
+      213: 7881525275468063114
+    second: tai_62
+  - first:
+      213: -8517232908755859729
+    second: tai_63
+  - first:
+      213: 5671676486003725459
+    second: tai_64
+  - first:
+      213: -6791399063523709947
+    second: tai_65
+  - first:
+      213: -4221273809671540513
+    second: tai_66
+  - first:
+      213: -216632735865919410
+    second: tai_67
+  - first:
+      213: -6008517515577365213
+    second: tai_68
+  - first:
+      213: 8686642945027624989
+    second: tai_69
+  - first:
+      213: -4708176766424157494
+    second: tai_70
+  - first:
+      213: -1367319355673216636
+    second: tai_71
+  - first:
+      213: 4998569867699012558
+    second: tai_72
+  - first:
+      213: 6335378968694526049
+    second: tai_73
+  - first:
+      213: 295431750055224127
+    second: tai_74
+  - first:
+      213: -1722269438598189187
+    second: tai_75
+  - first:
+      213: 2506422894457958210
+    second: tai_76
+  - first:
+      213: 1064130591792946465
+    second: tai_77
+  - first:
+      213: -6796745776793629837
+    second: tai_78
+  - first:
+      213: 8475784918595552628
+    second: tai_79
+  - first:
+      213: -833229575010869568
+    second: tai_80
+  - first:
+      213: 3362322396693659195
+    second: tai_81
+  - first:
+      213: -2605052689439239704
+    second: tai_82
+  - first:
+      213: -102942314446830445
+    second: tai_83
+  - first:
+      213: 8507665711396659897
+    second: tai_84
+  - first:
+      213: -6380175063684965136
+    second: tai_85
+  - first:
+      213: -699577846842263632
+    second: tai_86
+  - first:
+      213: 3201353343632202812
+    second: tai_87
+  - first:
+      213: -4747292439886139968
+    second: tai_88
+  - first:
+      213: -4032311248536608561
+    second: tai_89
+  - first:
+      213: 3127311703065776551
+    second: tai_90
+  - first:
+      213: -2785037329054655845
+    second: tai_91
+  - first:
+      213: -6796062789855748911
+    second: tai_92
+  - first:
+      213: -2868087488409610697
+    second: tai_93
+  - first:
+      213: 4387003761000210565
+    second: tai_94
+  - first:
+      213: 6352327220436183380
+    second: tai_95
+  - first:
+      213: -6139149350467125527
+    second: tai_96
+  - first:
+      213: -1028955274291944506
+    second: tai_97
+  - first:
+      213: 7748444796748486641
+    second: tai_98
+  - first:
+      213: -5066888071060684895
+    second: tai_99
+  - first:
+      213: -8738602926221649383
+    second: tai_100
+  - first:
+      213: -1704632893794317275
+    second: tai_101
+  - first:
+      213: -7208703374684427533
+    second: tai_102
+  - first:
+      213: -1239946292877893518
+    second: tai_103
+  - first:
+      213: 2296832514133264578
+    second: tai_104
+  - first:
+      213: -1013427407362437993
+    second: tai_105
+  - first:
+      213: 6797476128419200292
+    second: tai_106
+  - first:
+      213: -3872043797866837283
+    second: tai_107
+  - first:
+      213: -9205248240965598776
+    second: tai_108
+  - first:
+      213: -3694877425337351572
+    second: tai_109
+  - first:
+      213: -5242123815062034140
+    second: tai_110
+  - first:
+      213: 2892848078230287537
+    second: tai_111
+  - first:
+      213: 2865228419932496470
+    second: tai_112
+  - first:
+      213: -3984679110359266026
+    second: tai_113
+  - first:
+      213: 217519907452358555
+    second: tai_114
+  - first:
+      213: 667081063699995699
+    second: tai_115
+  - first:
+      213: -140069341388647381
+    second: tai_116
+  - first:
+      213: -4393829896995455534
+    second: tai_117
+  - first:
+      213: 3929898363494838388
+    second: tai_118
+  - first:
+      213: 8275794148532799353
+    second: tai_119
+  - first:
+      213: -6423503516751963852
+    second: tai_120
+  - first:
+      213: 7745660952739913647
+    second: tai_121
+  - first:
+      213: -3245270751582337484
+    second: tai_122
+  - first:
+      213: 1362925522117827813
+    second: tai_123
+  - first:
+      213: -7801005669317256295
+    second: tai_124
+  - first:
+      213: 5014201424965570986
+    second: tai_125
+  - first:
+      213: -38313959041788928
+    second: tai_126
+  - first:
+      213: 3838365469967635023
+    second: tai_127
+  - first:
+      213: -3676884919406747410
+    second: tai_128
+  - first:
+      213: 4820308326535370366
+    second: tai_129
+  - first:
+      213: 1930190030558149568
+    second: tai_130
+  - first:
+      213: 275328435020354062
+    second: tai_131
+  - first:
+      213: -8398157436713313113
+    second: tai_132
+  - first:
+      213: 4328859325155309169
+    second: tai_133
+  - first:
+      213: 713171527210233137
+    second: tai_134
+  - first:
+      213: 3343342021322636596
+    second: tai_135
+  - first:
+      213: -322366726380819423
+    second: tai_136
+  - first:
+      213: 7931049279267607022
+    second: tai_137
+  - first:
+      213: 6159134158437246197
+    second: tai_138
+  - first:
+      213: 2823628997294190066
+    second: tai_139
+  - first:
+      213: -686981459246876830
+    second: tai_140
+  - first:
+      213: -7478912261620546401
+    second: tai_141
+  - first:
+      213: -5775321294017339545
+    second: tai_142
+  - first:
+      213: -5051353016206092335
+    second: tai_143
+  - first:
+      213: -4044274288877154736
+    second: tai_144
+  - first:
+      213: -2667358036508181993
+    second: tai_145
+  - first:
+      213: 370189193447222171
+    second: tai_146
+  - first:
+      213: 298994671016885845
+    second: tai_147
+  - first:
+      213: -9054604570831729479
+    second: tai_148
+  - first:
+      213: 5824317857184321343
+    second: tai_149
+  - first:
+      213: 65864688743370757
+    second: tai_150
+  - first:
+      213: -2823059279756647108
+    second: tai_151
+  - first:
+      213: 4415235670045750911
+    second: tai_152
+  - first:
+      213: -5074707991318285073
+    second: tai_153
+  - first:
+      213: 3193962101233074787
+    second: tai_154
+  - first:
+      213: -6972429858875627845
+    second: tai_155
+  - first:
+      213: 976650785575391977
+    second: tai_156
+  - first:
+      213: -1167304377269210676
+    second: tai_157
+  - first:
+      213: 3364038764632492558
+    second: tai_158
+  - first:
+      213: 2304684442722012138
+    second: tai_159
+  - first:
+      213: -7977661268166034169
+    second: tai_160
+  - first:
+      213: 8730581357491860835
+    second: tai_161
+  - first:
+      213: 6622829595690996888
+    second: tai_162
+  - first:
+      213: -7564851443306191600
+    second: tai_163
+  - first:
+      213: -808314780138733364
+    second: tai_164
+  - first:
+      213: -3228174192041405913
+    second: tai_165
+  - first:
+      213: 280649734590239245
+    second: tai_166
+  - first:
+      213: 3397666145184910820
+    second: tai_167
+  - first:
+      213: 1365829884550769729
+    second: tai_168
+  - first:
+      213: -8701227934604409470
+    second: tai_169
+  - first:
+      213: -7511939210754041046
+    second: tai_170
+  - first:
+      213: 856090325362470226
+    second: tai_171
+  - first:
+      213: 2810188710596943695
+    second: tai_172
+  - first:
+      213: 3455946880494736386
+    second: tai_173
+  - first:
+      213: 4018770010760634022
+    second: tai_174
+  - first:
+      213: 5404341956850711094
+    second: tai_175
+  - first:
+      213: -6186687715118852021
+    second: tai_176
+  - first:
+      213: -389563293044363740
+    second: tai_177
+  - first:
+      213: 6809605100490686877
+    second: tai_178
+  - first:
+      213: -6776496276432127044
+    second: tai_179
+  - first:
+      213: 5179737498318437822
+    second: tai_180
+  - first:
+      213: 1846266092548641225
+    second: tai_181
+  - first:
+      213: 4692622698778929481
+    second: tai_182
+  - first:
+      213: -8477852610403910670
+    second: tai_183
+  - first:
+      213: -7411938856111869302
+    second: tai_184
+  - first:
+      213: 4213171362300713865
+    second: tai_185
+  - first:
+      213: -1695459305612549102
+    second: tai_186
+  - first:
+      213: 2806789607593418103
+    second: tai_187
+  - first:
+      213: -911824931321370818
+    second: tai_188
+  - first:
+      213: 1665118528727300474
+    second: tai_189
+  - first:
+      213: 5849096013668864041
+    second: tai_190
+  - first:
+      213: 3113242004483511589
+    second: tai_191
+  - first:
+      213: -6556184324879334880
+    second: tai_192
+  - first:
+      213: -3619305529099431582
+    second: tai_193
+  - first:
+      213: 624216509261236620
+    second: tai_194
+  - first:
+      213: -6495784070569236914
+    second: tai_195
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tai_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 959
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe21976a52dbd5bb0800000000000000
+      internalID: -4945588846378544401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 959
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae1cf18c970a4d30800000000000000
+      internalID: 4416350753367269031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 959
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595ec70af4a7ee750800000000000000
+      internalID: 6336136208170411413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 959
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c079903de1ca3710800000000000000
+      internalID: 1673863435988332741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_4
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 959
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5aad2f6696d37d0800000000000000
+      internalID: -2937075491093699138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 959
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85e667eb19061980800000000000000
+      internalID: -8568651225574742644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 959
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d5be395114bf7f0800000000000000
+      internalID: -577796566255182522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 919
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b929ba0ee82efee70800000000000000
+      internalID: 9146778471495340699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 919
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5e5c241d38b3ae0800000000000000
+      internalID: -1568515110416816697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 920
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b451e5df63412a0800000000000000
+      internalID: -6767723878197933185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 920
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432c79f6b313b2770800000000000000
+      internalID: 8587011245857030708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 919
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77daea19b664bfb50800000000000000
+      internalID: 6627968704425405815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_12
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 919
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74261512380a901e0800000000000000
+      internalID: -2231075655325228473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_13
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 919
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de7d276e7f9a7210800000000000000
+      internalID: 1331552005087133394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 879
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b679706cea315a30800000000000000
+      internalID: 4202204714218649268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 879
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5783c69e343bed0800000000000000
+      internalID: -2399499506636261955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 879
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9aef926279b5dd30800000000000000
+      internalID: 4455671307285031583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_17
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 879
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debf35fad0790acc0800000000000000
+      internalID: -3701792808666661907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 879
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1e15a884a6ce9a0800000000000000
+      internalID: -6202465727005204016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_19
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 879
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c046778c8ff466210800000000000000
+      internalID: 1325835070240941068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_20
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 879
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2942ba4551ed9b0800000000000000
+      internalID: -5053578278470380819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_21
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 879
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bb27815305041b0800000000000000
+      internalID: -5674447341513163893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_22
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 823
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb03b5874bde00bc0800000000000000
+      internalID: -3818791124641042242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_23
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 823
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04f04580f67da460800000000000000
+      internalID: 7254585350163592204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_24
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 823
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36017e1745fbea800800000000000000
+      internalID: 625647767660204131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 823
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2364efc10543202c0800000000000000
+      internalID: -4466950361709656526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_26
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 823
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7527b7fe8c043b0800000000000000
+      internalID: -5530199411517139010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_27
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 823
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858f15485675b1d80800000000000000
+      internalID: -8278927396467247016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_28
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 823
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5d7fea38d664e80800000000000000
+      internalID: -8194742059610417691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_29
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 823
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5d33da1225abcd0800000000000000
+      internalID: -2541628735103969814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 730
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0a23571c6c66fd0800000000000000
+      internalID: -2348971621429894969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_31
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 783
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709ce13e83ff7ed80800000000000000
+      internalID: -8221321974947854073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_32
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 784
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517b64fee230408a0800000000000000
+      internalID: -6339938875313047787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_33
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 783
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953a5421d48338240800000000000000
+      internalID: 4792736332122530649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_34
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 793
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cd3c38486d46f90800000000000000
+      internalID: -6961203259373265772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_35
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 784
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727e845f858ee6190800000000000000
+      internalID: -7967175222001866969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_36
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 794
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4c436e52dcc0200800000000000000
+      internalID: 147718450456085668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 783
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08454b50109b74450800000000000000
+      internalID: 6073026036574213248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_38
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 735
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5230cba23d53880800000000000000
+      internalID: -8631760930289277507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_39
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 735
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101408121165a5330800000000000000
+      internalID: 3700364675414769921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_40
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 735
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4523921096d197e0800000000000000
+      internalID: -1760390065049885363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_41
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 735
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe0c2a252c75bd10800000000000000
+      internalID: 2140753696947703483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_42
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 738
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6a5131d4c6f4d50800000000000000
+      internalID: 6723711846975907536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_43
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 735
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aea0c4f532a7be20800000000000000
+      internalID: 3366337599105969826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_44
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 738
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6886566fadadb83b0800000000000000
+      internalID: -5509069085186103162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_45
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 735
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fb46a73a5650e70800000000000000
+      internalID: 9080775976469970757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_46
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 697
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dc1404ba8a8f770800000000000000
+      internalID: 8644844938208595248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_47
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 697
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd07419f501383cb0800000000000000
+      internalID: -4884099894159839009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_48
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 697
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15194cb39d0428160800000000000000
+      internalID: 7026249670406213969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_49
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 699
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b9705b5f62dffb0800000000000000
+      internalID: -4612487606611502204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_50
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 699
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b7a6e130c3f80b0800000000000000
+      internalID: -5724290617271747769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_51
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 699
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9e36c5f313c2070800000000000000
+      internalID: 8082889579425950162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_52
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 672
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0f5a9c6097efa30800000000000000
+      internalID: 4250968168344187133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_53
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 673
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfc151a57d0bca50800000000000000
+      internalID: 6542337682554605510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_54
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 672
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc386e627242fb050800000000000000
+      internalID: 5818408994160935883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_55
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 672
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e845a63e8c842b0800000000000000
+      internalID: -5600005257568154107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_56
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 671
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb28cc1694455c930800000000000000
+      internalID: 4162826104724030139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_57
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 671
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e54079dc58bfa30800000000000000
+      internalID: 4250137791402630685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_58
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 615
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0abb991e52663f0800000000000000
+      internalID: -907996623991496519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_59
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 615
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfbefb85fa8d5cb0800000000000000
+      internalID: -4873586434524659755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_60
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 615
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520bf66fc51ff9ea0800000000000000
+      internalID: -5863702808239296475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_61
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 617
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b7e2c9ff30ec410800000000000000
+      internalID: 1499140122332789575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_62
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 617
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81698cda7dc06d60800000000000000
+      internalID: 7881525275468063114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_63
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 575
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe60754bbc5bcc980800000000000000
+      internalID: -8517232908755859729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_64
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 575
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3941035d6b7d5be40800000000000000
+      internalID: 5671676486003725459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_65
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 575
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cafbab88a10c1a0800000000000000
+      internalID: -6791399063523709947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_66
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 575
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd03edad5d50b65c0800000000000000
+      internalID: -4221273809671540513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_67
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 576
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48adfbacad5efcf0800000000000000
+      internalID: -216632735865919410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_68
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 575
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d6c4177257d9ca0800000000000000
+      internalID: -6008517515577365213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_69
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 575
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1056051cb72d8870800000000000000
+      internalID: 8686642945027624989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_70
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 575
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac27a890d2239aeb0800000000000000
+      internalID: -4708176766424157494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_71
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 535
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489f4965a4e460de0800000000000000
+      internalID: -1367319355673216636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_72
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 535
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3cb25afcc7e5540800000000000000
+      internalID: 4998569867699012558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_73
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 535
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16094821b99cbe750800000000000000
+      internalID: 6335378968694526049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_74
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 535
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33e9658c95991400800000000000000
+      internalID: 295431750055224127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_75
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 535
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fe7d012154918e0800000000000000
+      internalID: -1722269438598189187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_76
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 535
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fa219c75a98c220800000000000000
+      internalID: 2506422894457958210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_77
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 479
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dd17e922d84ce00800000000000000
+      internalID: 1064130591792946465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_78
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 479
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b44990abb1da1a0800000000000000
+      internalID: -6796745776793629837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_79
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 482
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47540811a7900a570800000000000000
+      internalID: 8475784918595552628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_80
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 482
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce902dbd16cf64f0800000000000000
+      internalID: -833229575010869568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_81
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 482
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ef34bc76e59ae20800000000000000
+      internalID: 3362322396693659195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_82
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 439
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e15cc0916ef8dbd0800000000000000
+      internalID: -2605052689439239704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_83
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 439
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3944a0ba286429ef0800000000000000
+      internalID: -102942314446830445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_84
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 439
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2a19393ec411670800000000000000
+      internalID: 8507665711396659897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_85
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 439
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc904c45901577a0800000000000000
+      internalID: -6380175063684965136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_86
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 439
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7fb32a7a99a46f0800000000000000
+      internalID: -699577846842263632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_87
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 439
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cd4bf87ed7d6c20800000000000000
+      internalID: 3201353343632202812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_88
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 439
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd60bb9daa3e1eb0800000000000000
+      internalID: -4747292439886139968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_89
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 439
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0e927984a5a08c0800000000000000
+      internalID: -4032311248536608561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_90
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 392
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1582bbc61766b20800000000000000
+      internalID: 3127311703065776551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_91
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 392
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a9e731e4f8959d0800000000000000
+      internalID: -2785037329054655845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_92
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 392
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcd56356e88fa1a0800000000000000
+      internalID: -6796062789855748911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_93
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 392
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7365a9400a18238d0800000000000000
+      internalID: -2868087488409610697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_94
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 393
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58068b26da4c1ec30800000000000000
+      internalID: 4387003761000210565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_95
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 393
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459a42f63fff72850800000000000000
+      internalID: 6352327220436183380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_96
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 393
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee365e313c5dcaa0800000000000000
+      internalID: -6139149350467125527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_97
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 393
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3601231aa68b1f0800000000000000
+      internalID: -1028955274291944506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_98
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 345
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7dae75d71088b60800000000000000
+      internalID: 7748444796748486641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_99
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 345
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af73c7152ccea9b0800000000000000
+      internalID: -5066888071060684895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_100
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 345
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a9e5d00fe3ab680800000000000000
+      internalID: -8738602926221649383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_101
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 345
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c81f42a6de758e0800000000000000
+      internalID: -1704632893794317275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_102
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 343
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa66cc597a85fb90800000000000000
+      internalID: -7208703374684427533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_103
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 343
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27063788a63dacee0800000000000000
+      internalID: -1239946292877893518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_104
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 343
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c80b71a00dffdf10800000000000000
+      internalID: 2296832514133264578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_105
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 343
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c448274259fe1f0800000000000000
+      internalID: -1013427407362437993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_106
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 306
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dbf93368c755e50800000000000000
+      internalID: 6797476128419200292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_107
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 305
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda84694eacb34ac0800000000000000
+      internalID: -3872043797866837283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_108
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 306
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1c4ff0f73604080800000000000000
+      internalID: -9205248240965598776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_109
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 303
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c624826de8829bcc0800000000000000
+      internalID: -3694877425337351572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_110
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 303
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429ac960a2c3047b0800000000000000
+      internalID: -5242123815062034140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_111
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 303
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4761c0006752820800000000000000
+      internalID: 2892848078230287537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_112
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 303
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6522e6a311653c720800000000000000
+      internalID: 2865228419932496470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_113
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 263
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dcd1bf57393b8c0800000000000000
+      internalID: -3984679110359266026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_114
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 263
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f064f0439c40300800000000000000
+      internalID: 217519907452358555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_115
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 265
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c5a3e61b2f14900800000000000000
+      internalID: 667081063699995699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_116
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 263
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b245b961daf5e0ef0800000000000000
+      internalID: -140069341388647381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_117
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 263
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd381afcfaf503c0800000000000000
+      internalID: -4393829896995455534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_118
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 263
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470bf777dbdc98630800000000000000
+      internalID: 3929898363494838388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_119
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 225
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977cd895ee689d270800000000000000
+      internalID: 8275794148532799353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_120
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 223
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439d68ea5912bd6a0800000000000000
+      internalID: -6423503516751963852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_121
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 227
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf1da6299d1e7b60800000000000000
+      internalID: 7745660952739913647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_122
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 227
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43648f3127b76f2d0800000000000000
+      internalID: -3245270751582337484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_123
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 227
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec95219a851ae210800000000000000
+      internalID: 1362925522117827813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_124
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 223
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b598ddca24db390800000000000000
+      internalID: -7801005669317256295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 223
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1945f21a5069540800000000000000
+      internalID: 5014201424965570986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_126
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 223
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004106148a1e77ff0800000000000000
+      internalID: -38313959041788928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_127
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 173
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42db83fe0d944530800000000000000
+      internalID: 3838365469967635023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_128
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 170
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee025c295a419fcc0800000000000000
+      internalID: -3676884919406747410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_129
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 172
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e769ff642ec25e240800000000000000
+      internalID: 4820308326535370366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_130
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 167
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb3b603b9969ca10800000000000000
+      internalID: 1930190030558149568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_131
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 167
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02d3fdb0c922d300800000000000000
+      internalID: 275328435020354062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_132
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 127
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acd5e08e40c37b80800000000000000
+      internalID: -8398157436713313113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_133
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 127
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176f486fe92331c30800000000000000
+      internalID: 4328859325155309169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_134
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 127
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13de947b9b1b5e900800000000000000
+      internalID: 713171527210233137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_135
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 127
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d7297cadfe56e20800000000000000
+      internalID: 3343342021322636596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_136
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 127
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c6aaa9b29b68bf0800000000000000
+      internalID: -322366726380819423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_137
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 130
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee11dda8c4fb01e60800000000000000
+      internalID: 7931049279267607022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_138
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 130
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f460a572e3a97550800000000000000
+      internalID: 6159134158437246197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_139
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 129
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd6631ec9b8f2720800000000000000
+      internalID: 2823628997294190066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_140
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 129
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2677f4aa00a5776f0800000000000000
+      internalID: -686981459246876830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_141
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 95
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f944bcb4ce0953890800000000000000
+      internalID: -7478912261620546401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_142
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 95
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fd85ec1efe9dfa0800000000000000
+      internalID: -5775321294017339545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_143
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 95
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d710f9e13df5e9b0800000000000000
+      internalID: -5051353016206092335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_144
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 95
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e4b3536f9dfd7c0800000000000000
+      internalID: -4044274288877154736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_145
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 95
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a75218ff3abfad0800000000000000
+      internalID: -2667358036508181993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_146
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 95
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b2c1f2c1d232500800000000000000
+      internalID: 370189193447222171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_147
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 95
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e32b3b11e362400800000000000000
+      internalID: 298994671016885845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_148
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 95
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc42fdbd15975280800000000000000
+      internalID: -9054604570831729479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_149
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 95
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f8f688b3224d050800000000000000
+      internalID: 5824317857184321343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_150
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 95
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5005acfd59ff9e000800000000000000
+      internalID: 65864688743370757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_151
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c352c32da8a72d8d0800000000000000
+      internalID: -2823059279756647108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_152
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 95
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76f5b0f271164d30800000000000000
+      internalID: 4415235670045750911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_153
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe433a608f30399b0800000000000000
+      internalID: -5074707991318285073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_154
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 63
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362ce06db9b335c20800000000000000
+      internalID: 3193962101233074787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_155
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 63
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb624602cf3fc3f90800000000000000
+      internalID: -6972429858875627845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_156
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 65
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2d3d707b2cd8d00800000000000000
+      internalID: 976650785575391977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_157
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 65
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc13c108ad6eccfe0800000000000000
+      internalID: -1167304377269210676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_158
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 65
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a4098de677fae20800000000000000
+      internalID: 3364038764632492558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_159
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 65
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb80d73a42ebff10800000000000000
+      internalID: 2304684442722012138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_160
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 65
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d32941857a94190800000000000000
+      internalID: -7977661268166034169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_161
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 39
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36533ffec71492970800000000000000
+      internalID: 8730581357491860835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_162
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 39
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8941b139d6409eb50800000000000000
+      internalID: 6622829595690996888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_163
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 39
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015222f41bf340790800000000000000
+      internalID: -7564851443306191600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_164
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 18
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc002277df948c4f0800000000000000
+      internalID: -808314780138733364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_165
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 18
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722d94a0da83333d0800000000000000
+      internalID: -3228174192041405913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_166
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 18
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d021f88527115e300800000000000000
+      internalID: 280649734590239245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_167
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 18
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed0e118b5fe62f20800000000000000
+      internalID: 3397666145184910820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_168
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 18
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ce2442b0764f210800000000000000
+      internalID: 1365829884550769729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_169
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 18
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285c2386b470f3780800000000000000
+      internalID: -8701227934604409470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_170
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 18
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b5da8761b30c790800000000000000
+      internalID: -7511939210754041046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_171
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 18
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25de0ea7d9171eb00800000000000000
+      internalID: 856090325362470226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_172
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 8
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f91f64ebbcff620800000000000000
+      internalID: 2810188710596943695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_173
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 18
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204128e906df5ff20800000000000000
+      internalID: 3455946880494736386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_174
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 18
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae516d480a85c730800000000000000
+      internalID: 4018770010760634022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_175
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 18
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a73d65064100b40800000000000000
+      internalID: 5404341956850711094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_176
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 18
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4851143d48742aa0800000000000000
+      internalID: -6186687715118852021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_177
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 18
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e2f8cbf3ef79af0800000000000000
+      internalID: -389563293044363740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_178
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 8
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d918f6392c3908e50800000000000000
+      internalID: 6809605100490686877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_179
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 7
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb718d3a8c05f1a0800000000000000
+      internalID: -6776496276432127044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_180
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 7
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd7a01bfcf12e740800000000000000
+      internalID: 5179737498318437822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_181
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1d53faa314f9910800000000000000
+      internalID: 1846266092548641225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_182
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94927a16b7b8f1140800000000000000
+      internalID: 4692622698778929481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_183
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbb1cae7fd985a80800000000000000
+      internalID: -8477852610403910670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_184
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 7
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82798861e0832990800000000000000
+      internalID: -7411938856111869302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_185
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b58cb1801387a30800000000000000
+      internalID: 4213171362300713865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_186
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21465d59eb48878e0800000000000000
+      internalID: -1695459305612549102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_187
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d1ddfe648b3f620800000000000000
+      internalID: 2806789607593418103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_188
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37ae375e0c8853f0800000000000000
+      internalID: -911824931321370818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_189
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7936bdca70bb1710800000000000000
+      internalID: 1665118528727300474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_190
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920d2e7a5d92c2150800000000000000
+      internalID: 5849096013668864041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_191
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5259011cb15743b20800000000000000
+      internalID: 3113242004483511589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_192
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 8
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0224599b711c305a0800000000000000
+      internalID: -6556184324879334880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_193
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261db641cc4a5cdc0800000000000000
+      internalID: -3619305529099431582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_194
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 8
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c894371ab99a9a800800000000000000
+      internalID: 624216509261236620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tai_195
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 8
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e466410ddc65ad5a0800000000000000
+      internalID: -6495784070569236914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tai_0: -4945588846378544401
+      tai_1: 4416350753367269031
+      tai_10: 8587011245857030708
+      tai_100: -8738602926221649383
+      tai_101: -1704632893794317275
+      tai_102: -7208703374684427533
+      tai_103: -1239946292877893518
+      tai_104: 2296832514133264578
+      tai_105: -1013427407362437993
+      tai_106: 6797476128419200292
+      tai_107: -3872043797866837283
+      tai_108: -9205248240965598776
+      tai_109: -3694877425337351572
+      tai_11: 6627968704425405815
+      tai_110: -5242123815062034140
+      tai_111: 2892848078230287537
+      tai_112: 2865228419932496470
+      tai_113: -3984679110359266026
+      tai_114: 217519907452358555
+      tai_115: 667081063699995699
+      tai_116: -140069341388647381
+      tai_117: -4393829896995455534
+      tai_118: 3929898363494838388
+      tai_119: 8275794148532799353
+      tai_12: -2231075655325228473
+      tai_120: -6423503516751963852
+      tai_121: 7745660952739913647
+      tai_122: -3245270751582337484
+      tai_123: 1362925522117827813
+      tai_124: -7801005669317256295
+      tai_125: 5014201424965570986
+      tai_126: -38313959041788928
+      tai_127: 3838365469967635023
+      tai_128: -3676884919406747410
+      tai_129: 4820308326535370366
+      tai_13: 1331552005087133394
+      tai_130: 1930190030558149568
+      tai_131: 275328435020354062
+      tai_132: -8398157436713313113
+      tai_133: 4328859325155309169
+      tai_134: 713171527210233137
+      tai_135: 3343342021322636596
+      tai_136: -322366726380819423
+      tai_137: 7931049279267607022
+      tai_138: 6159134158437246197
+      tai_139: 2823628997294190066
+      tai_14: 4202204714218649268
+      tai_140: -686981459246876830
+      tai_141: -7478912261620546401
+      tai_142: -5775321294017339545
+      tai_143: -5051353016206092335
+      tai_144: -4044274288877154736
+      tai_145: -2667358036508181993
+      tai_146: 370189193447222171
+      tai_147: 298994671016885845
+      tai_148: -9054604570831729479
+      tai_149: 5824317857184321343
+      tai_15: -2399499506636261955
+      tai_150: 65864688743370757
+      tai_151: -2823059279756647108
+      tai_152: 4415235670045750911
+      tai_153: -5074707991318285073
+      tai_154: 3193962101233074787
+      tai_155: -6972429858875627845
+      tai_156: 976650785575391977
+      tai_157: -1167304377269210676
+      tai_158: 3364038764632492558
+      tai_159: 2304684442722012138
+      tai_16: 4455671307285031583
+      tai_160: -7977661268166034169
+      tai_161: 8730581357491860835
+      tai_162: 6622829595690996888
+      tai_163: -7564851443306191600
+      tai_164: -808314780138733364
+      tai_165: -3228174192041405913
+      tai_166: 280649734590239245
+      tai_167: 3397666145184910820
+      tai_168: 1365829884550769729
+      tai_169: -8701227934604409470
+      tai_17: -3701792808666661907
+      tai_170: -7511939210754041046
+      tai_171: 856090325362470226
+      tai_172: 2810188710596943695
+      tai_173: 3455946880494736386
+      tai_174: 4018770010760634022
+      tai_175: 5404341956850711094
+      tai_176: -6186687715118852021
+      tai_177: -389563293044363740
+      tai_178: 6809605100490686877
+      tai_179: -6776496276432127044
+      tai_18: -6202465727005204016
+      tai_180: 5179737498318437822
+      tai_181: 1846266092548641225
+      tai_182: 4692622698778929481
+      tai_183: -8477852610403910670
+      tai_184: -7411938856111869302
+      tai_185: 4213171362300713865
+      tai_186: -1695459305612549102
+      tai_187: 2806789607593418103
+      tai_188: -911824931321370818
+      tai_189: 1665118528727300474
+      tai_19: 1325835070240941068
+      tai_190: 5849096013668864041
+      tai_191: 3113242004483511589
+      tai_192: -6556184324879334880
+      tai_193: -3619305529099431582
+      tai_194: 624216509261236620
+      tai_195: -6495784070569236914
+      tai_2: 6336136208170411413
+      tai_20: -5053578278470380819
+      tai_21: -5674447341513163893
+      tai_22: -3818791124641042242
+      tai_23: 7254585350163592204
+      tai_24: 625647767660204131
+      tai_25: -4466950361709656526
+      tai_26: -5530199411517139010
+      tai_27: -8278927396467247016
+      tai_28: -8194742059610417691
+      tai_29: -2541628735103969814
+      tai_3: 1673863435988332741
+      tai_30: -2348971621429894969
+      tai_31: -8221321974947854073
+      tai_32: -6339938875313047787
+      tai_33: 4792736332122530649
+      tai_34: -6961203259373265772
+      tai_35: -7967175222001866969
+      tai_36: 147718450456085668
+      tai_37: 6073026036574213248
+      tai_38: -8631760930289277507
+      tai_39: 3700364675414769921
+      tai_4: -2937075491093699138
+      tai_40: -1760390065049885363
+      tai_41: 2140753696947703483
+      tai_42: 6723711846975907536
+      tai_43: 3366337599105969826
+      tai_44: -5509069085186103162
+      tai_45: 9080775976469970757
+      tai_46: 8644844938208595248
+      tai_47: -4884099894159839009
+      tai_48: 7026249670406213969
+      tai_49: -4612487606611502204
+      tai_5: -8568651225574742644
+      tai_50: -5724290617271747769
+      tai_51: 8082889579425950162
+      tai_52: 4250968168344187133
+      tai_53: 6542337682554605510
+      tai_54: 5818408994160935883
+      tai_55: -5600005257568154107
+      tai_56: 4162826104724030139
+      tai_57: 4250137791402630685
+      tai_58: -907996623991496519
+      tai_59: -4873586434524659755
+      tai_6: -577796566255182522
+      tai_60: -5863702808239296475
+      tai_61: 1499140122332789575
+      tai_62: 7881525275468063114
+      tai_63: -8517232908755859729
+      tai_64: 5671676486003725459
+      tai_65: -6791399063523709947
+      tai_66: -4221273809671540513
+      tai_67: -216632735865919410
+      tai_68: -6008517515577365213
+      tai_69: 8686642945027624989
+      tai_7: 9146778471495340699
+      tai_70: -4708176766424157494
+      tai_71: -1367319355673216636
+      tai_72: 4998569867699012558
+      tai_73: 6335378968694526049
+      tai_74: 295431750055224127
+      tai_75: -1722269438598189187
+      tai_76: 2506422894457958210
+      tai_77: 1064130591792946465
+      tai_78: -6796745776793629837
+      tai_79: 8475784918595552628
+      tai_8: -1568515110416816697
+      tai_80: -833229575010869568
+      tai_81: 3362322396693659195
+      tai_82: -2605052689439239704
+      tai_83: -102942314446830445
+      tai_84: 8507665711396659897
+      tai_85: -6380175063684965136
+      tai_86: -699577846842263632
+      tai_87: 3201353343632202812
+      tai_88: -4747292439886139968
+      tai_89: -4032311248536608561
+      tai_9: -6767723878197933185
+      tai_90: 3127311703065776551
+      tai_91: -2785037329054655845
+      tai_92: -6796062789855748911
+      tai_93: -2868087488409610697
+      tai_94: 4387003761000210565
+      tai_95: 6352327220436183380
+      tai_96: -6139149350467125527
+      tai_97: -1028955274291944506
+      tai_98: 7748444796748486641
+      tai_99: -5066888071060684895
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
