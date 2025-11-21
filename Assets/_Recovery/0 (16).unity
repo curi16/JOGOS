@@ -1720,8 +1720,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyWaypointMovement
   waypoints:
-  - {fileID: 722525285}
-  - {fileID: 127509808}
+  - {fileID: 0}
+  - {fileID: 0}
   moveSpeed: 3
   waypointReachedDistance: 0.1
   loop: 1
