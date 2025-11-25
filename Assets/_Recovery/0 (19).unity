@@ -194,7 +194,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1682985828951687450, guid: 1e53b176e003682479f3d8a00427fdc3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -12.98
+      value: -14.16
       objectReference: {fileID: 0}
     - target: {fileID: 1682985828951687450, guid: 1e53b176e003682479f3d8a00427fdc3, type: 3}
       propertyPath: m_LocalPosition.y
@@ -906,8 +906,8 @@ Transform:
   m_GameObject: {fileID: 545850568}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.3414, y: 0.1192, z: 0}
-  m_LocalScale: {x: 3.4238136, y: 3.0180135, z: 1}
+  m_LocalPosition: {x: 0.9, y: 0.59, z: 0}
+  m_LocalScale: {x: 5.525845, y: 4.6994915, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1372780453}
@@ -1153,7 +1153,6 @@ GameObject:
   - component: {fileID: 842868306}
   - component: {fileID: 842868305}
   - component: {fileID: 842868307}
-  - component: {fileID: 842868308}
   m_Layer: 0
   m_Name: Personagem
   m_TagString: Player
@@ -1344,20 +1343,6 @@ MonoBehaviour:
   target: {fileID: 0}
   smoothTime: 0.3
   offset: {x: 0, y: 0, z: -10}
---- !u!114 &842868308
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 842868301}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0cf4bf6522a56db4da61e0a8a2d022bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerHealth
-  maxHealth: 40
-  currentHealth: 0
 --- !u!1 &978540039
 GameObject:
   m_ObjectHideFlags: 0
@@ -1822,9 +1807,6 @@ MonoBehaviour:
   moveSpeed: 3
   waypointReachedDistance: 1
   loop: 1
-  damage: 10
-  attackCooldown: 1
-  knockbackForce: 15
 --- !u!50 &1372780455
 Rigidbody2D:
   serializedVersion: 5
@@ -1851,7 +1833,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!61 &1372780456
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1886,7 +1868,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 1.357669, y: 0.118475914}
+  m_Offset: {x: 0.88826513, y: 0.58788013}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -1896,7 +1878,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.5147169, y: 1.711731}
+  m_Size: {x: 2.4535246, y: 2.6505394}
   m_EdgeRadius: 0
 --- !u!1001 &1387208887
 PrefabInstance:
@@ -2054,7 +2036,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1682985828951687450, guid: 1e53b176e003682479f3d8a00427fdc3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 13.66
+      value: 16.25
       objectReference: {fileID: 0}
     - target: {fileID: 1682985828951687450, guid: 1e53b176e003682479f3d8a00427fdc3, type: 3}
       propertyPath: m_LocalPosition.y

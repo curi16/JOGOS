@@ -2,9 +2,9 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float moveSpeed = 5f;     // Horizontal movement speed
-    public float jumpForce = 10f;    // Jump strength
-    public Transform groundCheck;    // Empty GameObject at feet
+    public float moveSpeed = 5f;     
+    public float jumpForce = 10f;    
+    public Transform groundCheck;    
     public float groundCheckRadius = 0.2f;
     public LayerMask groundLayer;
 

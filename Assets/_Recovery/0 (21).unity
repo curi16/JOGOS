@@ -1356,7 +1356,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cf4bf6522a56db4da61e0a8a2d022bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerHealth
-  maxHealth: 40
+  maxHealth: 100
   currentHealth: 0
 --- !u!1 &978540039
 GameObject:
@@ -1824,7 +1824,7 @@ MonoBehaviour:
   loop: 1
   damage: 10
   attackCooldown: 1
-  knockbackForce: 15
+  knockbackForce: 70
 --- !u!50 &1372780455
 Rigidbody2D:
   serializedVersion: 5

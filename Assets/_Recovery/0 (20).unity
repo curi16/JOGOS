@@ -1153,7 +1153,6 @@ GameObject:
   - component: {fileID: 842868306}
   - component: {fileID: 842868305}
   - component: {fileID: 842868307}
-  - component: {fileID: 842868308}
   m_Layer: 0
   m_Name: Personagem
   m_TagString: Player
@@ -1344,20 +1343,6 @@ MonoBehaviour:
   target: {fileID: 0}
   smoothTime: 0.3
   offset: {x: 0, y: 0, z: -10}
---- !u!114 &842868308
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 842868301}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0cf4bf6522a56db4da61e0a8a2d022bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerHealth
-  maxHealth: 40
-  currentHealth: 0
 --- !u!1 &978540039
 GameObject:
   m_ObjectHideFlags: 0
