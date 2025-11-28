@@ -1218,10 +1218,10 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_Sprite: {fileID: -422401362006371055, guid: faaa741075179f04280024e034eaaa37, type: 3}
-  m_Type: 3
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
-  m_FillMethod: 0
+  m_FillMethod: 4
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
@@ -1658,6 +1658,7 @@ GameObject:
   - component: {fileID: 842868304}
   - component: {fileID: 842868306}
   - component: {fileID: 842868305}
+  - component: {fileID: 842868307}
   - component: {fileID: 842868308}
   m_Layer: 0
   m_Name: Personagem
@@ -1834,6 +1835,21 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!114 &842868307
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 842868301}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22c390a4e9dcf5e43898f52e0c879dcc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Camera2DFollow
+  target: {fileID: 0}
+  smoothTime: 0.3
+  offset: {x: 0, y: 0, z: -10}
 --- !u!114 &842868308
 MonoBehaviour:
   m_ObjectHideFlags: 0
